@@ -2,7 +2,7 @@
 
 Versionamento e o registro de modificações dos códigos, sendo eles criados a partir de da raiz (main) do arquivo ou não, podendo ser unida as partes posteriormente. 
 
-### Instalação 
+## Instalação 
 
 Git pode ser instalado a partir do site https://www.git-scm.com/downloads e para verificar a instalação e versão instalada, usamos o comando.
 
@@ -12,7 +12,7 @@ Git pode ser instalado a partir do site https://www.git-scm.com/downloads e para
 
 ```
 
-### Como usar o git
+## Como usar o git
 
 O git pode ser usado pelas seguintes aplicações:
 
@@ -23,7 +23,7 @@ O git pode ser usado pelas seguintes aplicações:
 * Terminal do VSCode
 
 
-### Primeira configurando o Git
+## Primeira configurando o Git
 
 Usamos os comandos para definir globalmente o usuario e email com 
 
@@ -35,7 +35,7 @@ git config --global user.email (email do usuario) - para inserir o email do usua
 
 ```
 
-### Repositórios
+## Repositórios
 
 * Criando repositório Local
 
@@ -56,22 +56,4 @@ git clone (caminho do repositório a ser clonado)
 ```
 * Remoto 
 
-```
-
-
-
-
-
-
-
-git add README.md - inseri o arquivo de marcação markdown
-
-git commit -m "first commit" - cria o primeiro commit
-
-git branch -M main - indica com a branch sera usada
-
-git remote add origin (caminho do repositorio remoto a ser inserido) - insere o camicho a ser configurado remotamente
-
-git push -u origin main - inseri o repositorio no ambiente remoto indicado
-
-
+## 
