@@ -1,10 +1,10 @@
 # GIT e Versionamento 
 
-Versionamento e o registro de modificações dos códigos, sendo eles criados a partir de da raiz (main) do arquivo ou não podendo ser unida as partes posteriormente 
+Versionamento e o registro de modificações dos códigos, sendo eles criados a partir de da raiz (main) do arquivo ou não, podendo ser unida as partes posteriormente. 
 
 ### Instalação 
 
-Git pode ser instado a partir do https://www.git-scm.com/downloads e para verificar a instalação e versão instalada usamos.
+Git pode ser instalado a partir do site https://www.git-scm.com/downloads e para verificar a instalação e versão instalada, usamos o comando.
 
 ```
 
@@ -19,13 +19,13 @@ O git pode ser usado pelas seguintes aplicações:
 * Git bash - instalado com o git
 * CMD do Windows
 * GitHub desktop - programa de extensão do site da github
-* Site da GitHub
+* Site da GitHub 
 * Terminal do VSCode
 
 
-### Configurando o Git
+### Primeira configurando o Git
 
-Usamos o comando
+Usamos o comandos para definir globalmente o usuario e email com 
 
 ```
 
