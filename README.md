@@ -56,4 +56,39 @@ git clone (caminho do repositório a ser clonado)
 ```
 * Remoto 
 
-## 
+## Estados do Git
+
+* IMAGEM
+  
+O Git pode se encontrar em 4 seguintes estados que podem ser checados com o comando.
+
+```
+
+git status
+
+```
+
+1. Unmodefied - Estados aonde o codigo enconrase salvo e estatico.
+   
+2. Modified - Estado onde o codigo encotrase alterado do seu original.
+
+3. Staged - Estado preparatorio antes do commit.
+
+4. Untracked - ???
+
+### Modificando o status do git:
+
+Usamos o comando seginte para preparar o codigo pro estado staged apos o codigo ter sido alterado de unmodified para modified.
+
+```
+
+git add
+
+```
+
+
+
+
+
+
+
