@@ -82,8 +82,36 @@ Usamos o comando seginte para preparar o codigo pro estado staged apos o codigo 
 
 ```
 
-git add
+git diff - para verificar o a direrença entre o codigo unmodified do codigo modified
+git add - para adcionar as modicações ao stado de staged
 
+
+```
+
+** Tambem podemos ver a diferença entre o codigo modified e o codigo staged com o comando antes do commit
+
+```
+git diff --staged
+```
+
+## Commit
+
+E o registro final das alteraçoes da versão atual com a versão anterior.
+
+```
+git commit -m "(nome dado ao registro da alteração)"
+```
+### Registro de commits
+
+Para vermos os  registros dos commits podemos usar o comando a seguir:
+
+```
+git log
+```
+### Restaurando commit/stados do codigo
+
+```
+git restore - permote voltar a ultimo estado do codigo
 ```
 
 
