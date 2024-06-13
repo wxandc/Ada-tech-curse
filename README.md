@@ -25,7 +25,7 @@ O git pode ser usado pelas seguintes aplicações:
 
 ### Primeira configurando o Git
 
-Usamos o comandos para definir globalmente o usuario e email com 
+Usamos os comandos para definir globalmente o usuario e email com 
 
 ```
 
