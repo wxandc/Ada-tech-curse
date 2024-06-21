@@ -1,6 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 h2 {
     color:rgb(255, 0, 64);
-    background-color: rgb(0, 255, 64);
+    background-color: #3dd329;
     font-size: 96px;
     font-weight: 900;
+}
+.bg {
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+    background-image: url(https://plus.unsplash.com/premium_photo-1674740444237-6677634b6838?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
