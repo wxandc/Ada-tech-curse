@@ -2,12 +2,26 @@
     margin: 0;
     padding: 0;
 }
+h1{
+    font-size: 95px;
+    padding: 25px;
+    font-style: italic;
+    text-decoration: underline;
+    
+}
 
 h2 {
+    padding: 25px;
     color:rgb(255, 0, 64);
     background-color: #3dd329;
-    font-size: 96px;
+    font-size: 75px;
     font-weight: 900;
+    text-align: center;
+}
+p{
+    font-size: 18px;
+    padding: 25px;
+    text-align: justify;
 }
 .bg {
     height: 500px;
@@ -17,4 +31,5 @@ h2 {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    background-attachment: fixed;
 }
